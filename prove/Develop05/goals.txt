@@ -1,0 +1,3 @@
+SimpleGoal|go run|20|False|Go run for thirty minutes
+EternalGoal|read scriptures|10|read at least one chapter
+ChecklistGoal|help someone|10|0|3|30|Try to do one good thing for someone
